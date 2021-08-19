@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Reconsquider
+- 👀 I’m interested in front-end development
+- 🌱 I’m currently learning rudimentary coding with python and c++, and have created a few bots in the process.
+- 💞️ I’m looking to collaborate on any front end ideas, and web design.
+- Im here to learn as much as I can, and to improve my coding to the max!
